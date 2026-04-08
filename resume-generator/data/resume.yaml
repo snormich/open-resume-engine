@@ -1,0 +1,43 @@
+basics:
+  name: "Alex Rivera"
+  title: "Senior Full Stack Engineer"
+  email: "alex.rivera@email.com"
+  phone: "+1 415 555 0179"
+  location: "San Francisco, CA"
+  summary: "Senior engineer with 9+ years building scalable web platforms with Node.js, TypeScript, React and cloud-native practices. Focused on product impact, performance, and measurable outcomes."
+
+experience:
+  - company: "Nimbus Labs"
+    role: "Lead Software Engineer"
+    start: "2021"
+    end: "Present"
+    highlights:
+      - "Led migration to Next.js and improved page load time by 38%."
+      - "Implemented CI/CD pipelines reducing deployment failures by 42%."
+      - "Designed internal APIs handling 2M+ monthly requests with 99.95% uptime."
+
+  - company: "Northbyte"
+    role: "Software Engineer"
+    start: "2017"
+    end: "2021"
+    highlights:
+      - "Built Node.js services that reduced report generation time from 20 min to 3 min."
+      - "Optimized SQL queries and reduced infrastructure costs by 18%."
+      - "Developed analytics dashboards used by 300+ enterprise users."
+
+education:
+  - institution: "University of California"
+    degree: "B.Sc. Computer Science"
+    year: "2017"
+
+skills:
+  - name: "TypeScript"
+    level: "Advanced"
+  - name: "Next.js"
+    level: "Advanced"
+  - name: "Node.js"
+    level: "Advanced"
+  - name: "AWS"
+    level: "Intermediate"
+  - name: "SQL"
+    level: "Advanced"
